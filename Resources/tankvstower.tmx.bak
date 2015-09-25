@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="8" height="8" tilewidth="101" tileheight="81" nextobjectid="1">
+ <tileset firstgid="1" name="ortho-test1" tilewidth="101" tileheight="171" spacing="2" margin="2">
+  <image source="../../../Desktop/ortho-test1.png" width="1024" height="1024"/>
+ </tileset>
+ <layer name="tankvstower_background" width="8" height="8">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgwA8EhzkGAHeI8zkAAQAA
+  </data>
+ </layer>
+</map>
