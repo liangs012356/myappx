@@ -1,9 +1,8 @@
-﻿#include "EntryScene.h"
+﻿#include "BigStageScene.h"
 #include "MyAppMacros.h"
 #include "MyMathUtils.h"
-#include "BigStageScene.h"
 
-
+#include "EntryScene.h"
 
 USING_NS_CC;
 

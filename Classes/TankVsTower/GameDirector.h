@@ -1,10 +1,4 @@
-/*
-	GameDirector.h
-	�н�ģʽ
-	2015-9-5
-*/
-
-#ifndef _GAMEDIRCTOR_H_
+﻿#ifndef _GAMEDIRCTOR_H_
 #define _GAMEDIRCTOR_H_
 
 
